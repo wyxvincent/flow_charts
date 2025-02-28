@@ -61,19 +61,19 @@
           <mxGeometry width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pftTVOW5zMtByHvlVVlK-12" value="1000_01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=15;labelBackgroundColor=none;labelBorderColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="110" width="70" height="40" as="geometry" />
+          <mxGeometry x="10" y="93" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pftTVOW5zMtByHvlVVlK-13" value="迪威尔" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=15;labelBorderColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="110" width="56" height="40" as="geometry" />
+          <mxGeometry x="150" y="93" width="56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pftTVOW5zMtByHvlVVlK-15" value="审批流程：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=13;textShadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="135" width="80" height="40" as="geometry" />
+          <mxGeometry x="10" y="118" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uk0JDNx7GKkw2sM7v-O2-0" value="北分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=15;labelBorderColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="110" width="56" height="40" as="geometry" />
+          <mxGeometry x="80" y="93" width="56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uk0JDNx7GKkw2sM7v-O2-1" value="or" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="115" width="20" height="30" as="geometry" />
+          <mxGeometry x="130" y="98" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uk0JDNx7GKkw2sM7v-O2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Uk0JDNx7GKkw2sM7v-O2-2" target="pftTVOW5zMtByHvlVVlK-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
